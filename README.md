@@ -1,2 +1,2 @@
-# Gulp-default-starter
-Gulp Default Starter using HTML Sass and JS.
+# blog-vanilla-js
+ Default Gulp Starter files. 
